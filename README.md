@@ -5,7 +5,7 @@ Module 4 Challenge
 
 **This project includes a quantitative analysis that includes the following:**
 
-#ffffffPerformance
+* *Performance* *
 
 Volatility
 
