@@ -5,12 +5,12 @@ Module 4 Challenge
 
 **This project includes a quantitative analysis that includes the following:**
 
-* *Performance* *
+* *Performance* 
 
-Volatility
+* *Volatility*
 
-Risk
+* *Risk*
 
-Risk-return profile
+* *Risk-return profile*
 
-Portfolio diversification
+* *Portfolio diversification*
