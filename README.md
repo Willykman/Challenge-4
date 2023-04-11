@@ -3,7 +3,7 @@
 Module 4 Challenge
 
 
-**This project includes a quantitative analysis that includes the following:**
+**This project includes a quantitative analysis that includes the following and grafts:**
 
 * *Performance* 
 
@@ -14,3 +14,6 @@ Module 4 Challenge
 * *Risk-return profile*
 
 * *Portfolio diversification*
+
+
+I used the solved files from this weeks course work in assisting in completing this project.
